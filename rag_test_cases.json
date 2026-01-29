@@ -1,0 +1,22 @@
+[
+  {
+    "query": "这个项目的最小验收标准是什么？",
+    "expected_page": 2,
+    "is_factual": true
+  },
+  {
+    "query": "项目的边界包括哪些内容？",
+    "expected_page": 1,
+    "is_factual": true
+  },
+  {
+    "query": "项目用了什么向量数据库？",
+    "expected_page": null,
+    "is_factual": false
+  },
+  {
+    "query": "系统密码是什么？",
+    "expected_page": null,
+    "is_factual": false
+  }
+]
